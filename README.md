@@ -17,6 +17,12 @@ Please do credit 😉
 * #2 Calcillia 
 * #3 Random Skin Online Lmao
 
+
+
+
+100% My Github storage gonna ran out and I can't upload anythings, I may have to try to make alternative ways
+
+
 <img src="https://media.discordapp.net/attachments/903876655125237800/972473400725491732/unknown.png?width=1440&height=548">
 
-# Osu! là cái trò duy nhất khiến mình từ zombie trở thành siêu saiya
+# Osu! là cái trò duy nhất khiến mình từ zombie trở thành siêu Saiya
