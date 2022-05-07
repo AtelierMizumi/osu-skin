@@ -13,7 +13,7 @@ Please do credit 😉
 
 # List:
 
-* #1 Atelier, edited skin from Shizuku- 
-* #2 Calcillia
+* #1 Atelier Alter, edited skin from Shizuku- 
+* #2 Calcillia (and it's varient, the main purpose of this is I wanted to copy pasted 7 of my fav skin, don't ask why it sucks)
 * #2 Calcillitea
 * #3 Calculator (don't ask why, I ran out of name in midway)
