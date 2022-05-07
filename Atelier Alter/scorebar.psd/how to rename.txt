@@ -1,0 +1,10 @@
+Open the photoshop below and edit with, obviously Photoshop
+
+Select Text tool
+Click on the Text
+Type
+Save 
+
+Because of my skill issue of not knowing the anchor point of scorebar-colour so I decided to eyeballs it. Just ignore how it looks in .psd
+If you want to export you need to merge all the layers in Group 1 and Group 2 to let it export 2 layers using Export -> Layers to File
+Sorry for inconvinient, I did this my self and have absolutely no idea why peppy decided to do that
