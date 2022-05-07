@@ -5,7 +5,7 @@
 
 My personal Github Repo for my Osu! skins, since alots of people are using Github now so I guess I should try some
 
-* **Most of theme will make you vomit, featuring the same gameplay experience just a little change here and there**
+* **Most of them will make you vomit, featuring the same gameplay experience just a little change here and there**
 * Have fun downloading! 
 
 To use these skin, download the source code and you can copy paste it into your **Skins** folder
